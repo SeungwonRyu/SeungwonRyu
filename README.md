@@ -19,6 +19,11 @@ Front-end Developer<br><br>
 3<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <br>
+<img src="https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-cc2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white"/>
+4<br>
+
+<br>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact"><br><br>
