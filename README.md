@@ -48,7 +48,7 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231f20.svg?&style=flat&logo=Apache%20Kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed.svg?&style=flat&logo=Docker&logoColor=white)
 
-# %20
+# 
 
 ### square.haneba.com
 ### slim.doctorsoft.co.kr
