@@ -1,6 +1,7 @@
-### Sean Ryu (mikeryu98@gmail.com)
-Front-end Developer<br><br>
+### Sean (mikeryu98@gmail.com)
+Front-end Developer<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact&theme=onedark) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikeryu98)](https://solved.ac/mikeryu98/)
 
 ------------------------------------------------------
