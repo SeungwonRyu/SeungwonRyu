@@ -1,5 +1,9 @@
 # Sean
 
+### Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeryu98@gmail.com)](mikeryu98@gmail.com)
+[![Haneba](https://img.shields.io/badge/Haneba-00cccc?style=flat-square&logo=Haneba&logoColor=white&link=mailto:sean@haneba.com)](sean@haneba.com)
+
 ### Devleop
  - Doctorsoft SLIM System 2.0  
  - Hyundai Mobis SLIM System 2.0 
@@ -52,4 +56,4 @@
 
 [Haneba Square](https://square.haneba.com)
 
-[SLIM System](http://slim.doctorsoft.co.kr)
+[SLIM System](http://slim.doctorsoft.co.kr:4010)
