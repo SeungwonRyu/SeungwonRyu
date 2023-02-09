@@ -19,20 +19,31 @@
 
 ![Javascript](https://img.shields.io/badge/Javascript-f7df1e.svg?&style=flat&logo=Javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat&logo=React&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=Vue.js&logoColor=white")
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white")
-
-<br>
 
 ### Back-end
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6db33f.svg?&style=flat&logo=Spring&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=white")
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=black")
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-cc2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white")
+
+<br>
+
+### Tools
+
+![Figma](https://img.shields.io/badge/Figma-f24e1e.svg?&style=flat&logo=Figma&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat&logo=IntelliJ%20IDEA&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032.svg?&style=flat&logo=Git&logoColor=white)
 
 ----------------------------------------------------------------
 
-### IDE
+### Studying
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat&logo=IntelliJ%20IDEA&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6db33f.svg?&style=flat&logo=Spring%20Security&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d.svg?&style=flat&logo=Redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231f20.svg?&style=flat&logo=Apache%20Kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed.svg?&style=flat&logo=Docker&logoColor=white)
