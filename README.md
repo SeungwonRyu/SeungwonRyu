@@ -26,6 +26,5 @@ Front-end Developer<br><br>
 <br>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact"><br><br>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikeryu98)](https://solved.ac/mikeryu98/)
