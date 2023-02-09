@@ -1,10 +1,10 @@
-# Sean
+# Sean Ryu 🧑‍💻
 
-### Contacts
+### Contacts 📧
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeryu98@gmail.com)](mikeryu98@gmail.com)
 [![Haneba](https://img.shields.io/badge/Haneba-00cccc?style=flat-square&logo=Haneba&logoColor=white&link=mailto:sean@haneba.com)](sean@haneba.com)
 
-### Devleop
+### Devleop 💻
  - Doctorsoft SLIM System 2.0  
  - Hyundai Mobis SLIM System 2.0 
  - Haneba Identity Service
@@ -13,9 +13,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikeryu98)](https://solved.ac/mikeryu98/)
 
 
-# Skills
+# Skills 🌟
 
-### Front-end 
+### Front-end 📘
 
 ![HTML](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=CSS3&logoColor=white)
@@ -27,7 +27,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4fc08d?style=flat&logo=Vue.js&logoColor=white")
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white")
 
-### Back-end
+### Back-end 📗
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6db33f.svg?&style=flat&logo=Spring&logoColor=white)
@@ -37,7 +37,7 @@
 
 <br>
 
-### Tools
+### Tools 🛠
 
 ![Figma](https://img.shields.io/badge/Figma-f24e1e.svg?&style=flat&logo=Figma&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat&logo=IntelliJ%20IDEA&logoColor=white)
@@ -45,7 +45,7 @@
 
 ----------------------------------------------------------------
 
-### Studying
+### Studying 📚
 
 ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6db33f.svg?&style=flat&logo=Spring%20Security&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-dc382d.svg?&style=flat&logo=Redis&logoColor=white)
