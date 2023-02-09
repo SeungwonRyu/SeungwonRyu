@@ -1,13 +1,12 @@
-# Sean (mikeryu98@gmail.com)
-
-### Web Developer (2nd)
+# Sean Ryu 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact&theme=onedark) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikeryu98)](https://solved.ac/mikeryu98/)
 
-------------------------------------------------------
 
-Front-end 
+# Skills
+
+### Front-end 
 
 ![HTML](https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=CSS3&logoColor=white)
@@ -20,7 +19,7 @@ Front-end
 
 <br>
 
-Back-end
+### Back-end
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 
