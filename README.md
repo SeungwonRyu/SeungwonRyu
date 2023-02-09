@@ -35,15 +35,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=black")
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-cc2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white")
 
-<br>
-
 ### Tools 🛠
 
 ![Figma](https://img.shields.io/badge/Figma-f24e1e.svg?&style=flat&logo=Figma&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat&logo=IntelliJ%20IDEA&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032.svg?&style=flat&logo=Git&logoColor=white)
 
-----------------------------------------------------------------
+<br>
 
 ### Studying 📚
 
