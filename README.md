@@ -9,7 +9,7 @@
  - Hyundai Mobis SLIM System 2.0 
  - Haneba Identity Service
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact&theme=onedark) &nbsp;&nbsp;&nbsp;&nbsp;
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungwonRyu&show_icons=true&theme=onedark) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mikeryu98)](https://solved.ac/mikeryu98/)
 
 
@@ -55,3 +55,5 @@
 [Haneba Square](https://square.haneba.com)
 
 [SLIM System](http://slim.doctorsoft.co.kr:4010)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact&theme=onedark) 
