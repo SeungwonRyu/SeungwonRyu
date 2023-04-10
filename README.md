@@ -2,11 +2,12 @@
 
 ### Contacts 📧
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikeryu98@gmail.com)](mikeryu98@gmail.com)
-[![Haneba](https://img.shields.io/badge/Haneba-00cccc?style=flat-square&logo=Haneba&logoColor=white&link=mailto:sean@haneba.com)](sean@haneba.com)
 
 ### Devleop 💻
  - Doctorsoft SLIM System 2.0  
  - Hyundai Mobis SLIM System 2.0 
+ - Hyundai Rotem SLIM System 2.0
+ - Hyundai Heavy Industries SLIM System
  - Haneba Identity Service
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungwonRyu&show_icons=true&theme=onedark) &nbsp;&nbsp;&nbsp;&nbsp;
