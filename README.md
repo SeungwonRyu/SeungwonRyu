@@ -10,8 +10,6 @@
  - Hyundai Heavy Industries SLIM System
  - Haneba Identity Service
 
- - SLIM System 3.0 (Next.js + Spring boot)
-
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungwonRyu&show_icons=true&theme=onedark) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingsean)](https://solved.ac/mikeryu98/)
 
