@@ -31,6 +31,7 @@
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6db33f.svg?&style=flat&logo=Spring&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6db33f.svg?&style=flat&logo=Spring%20Security&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=black")
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-cc2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white")
@@ -45,7 +46,6 @@
 
 ### Studying 📚
 
-![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6db33f.svg?&style=flat&logo=Spring%20Security&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-dc382d.svg?&style=flat&logo=Redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231f20.svg?&style=flat&logo=Apache%20Kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed.svg?&style=flat&logo=Docker&logoColor=white)
