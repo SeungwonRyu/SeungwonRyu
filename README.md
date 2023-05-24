@@ -5,9 +5,8 @@
 
 ### Devleop 💻
  - Doctorsoft SLIM System 2.0  
- - Hyundai Mobis SLIM System 2.0 
- - Hyundai Rotem SLIM System 2.0
- - Hyundai Heavy Industries SLIM System
+ - Hyundai Group SLIM System 2.0 (Mobis, Rotem, HHI)
+ - HL Mando SLIM System 2.0
  - Haneba Identity Service
 
 ![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungwonRyu&show_icons=true&theme=onedark) &nbsp;&nbsp;&nbsp;&nbsp;
