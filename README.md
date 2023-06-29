@@ -9,7 +9,8 @@
  - HL Mando SLIM System 2.0
  - Haneba Identity Service
 
-![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungwonRyu&show_icons=true&theme=onedark) &nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact&theme=onedark) 
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingsean)](https://solved.ac/kingsean/)
 
 
@@ -56,4 +57,5 @@
 
 [SLIM System](http://slim.doctorsoft.co.kr:4010)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungwonRyu&layout=compact&theme=onedark) 
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungwonRyu&show_icons=true&theme=onedark)
+
