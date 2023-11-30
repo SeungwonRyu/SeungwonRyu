@@ -37,6 +37,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat&logo=MySQL&logoColor=black")
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-cc2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white")
 
+![Redis](https://img.shields.io/badge/Redis-dc382d.svg?&style=flat&logo=Redis&logoColor=white)
+
 ### Tools 🛠
 
 ![Figma](https://img.shields.io/badge/Figma-f24e1e.svg?&style=flat&logo=Figma&logoColor=white)
@@ -46,8 +48,6 @@
 <br>
 
 ### Studying 📚
-
-![Redis](https://img.shields.io/badge/Redis-dc382d.svg?&style=flat&logo=Redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231f20.svg?&style=flat&logo=Apache%20Kafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ed.svg?&style=flat&logo=Docker&logoColor=white)
 
